@@ -1,6 +1,6 @@
 <h1 class='page-header'>
   {{candidate.name}}
-  <div class='pull-right'><h3>{{candidate.Constituency}}, {{candidate.State}}</h3></div>
+  <div class='pull-right'><h3><a ui-sref='home({state : candidate.State})'>{{candidate.State}}</a></h3></div>
 </h1>
 <div class='row'>
   <div class='col-lg-2'>
@@ -12,10 +12,25 @@
     </div>
   </div>
   <div class="col-lg-10">
-    <p>{{candidate.Profile}}</p>
-    <blockquote>
-      <p>{{candidate.tags}}</p>
-    </blockquote>
+    <tabset>
+      <tab heading="About">
+	<div style='padding-top : 10px;'>
+	  <p>{{candidate.Profile}}</p>
+	  <blockquote>
+	    <p>{{candidate.tags}}</p>
+	  </blockquote>
+	</div>
+      </tab>
+      <tab heading='{{candidate.Constituency}}'>
+	Blah Blah
+      </tab>
+      <tab heading='Manifesto'>
+
+      </tab>
+      <tab heading='Videos'>
+
+      </tab>
+    </tabset>
   </div>
 </div>
 <h2 class='page-header'>Contesting Against</h2>

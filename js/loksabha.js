@@ -1,4 +1,4 @@
-var loksabhaApp = angular.module('loksabhaApp', [ 'ui.router' ]);
+var loksabhaApp = angular.module('loksabhaApp', [ 'ui.router' , 'ui.bootstrap' ]);
 
 function loksabhaRouteConfig($stateProvider, $urlRouterProvider) {
 	$urlRouterProvider.otherwise("/list?state=");
