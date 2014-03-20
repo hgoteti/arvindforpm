@@ -21,6 +21,7 @@
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
     <script src='https://ajax.googleapis.com/ajax/libs/angularjs/1.2.14/angular.min.js'></script>
+    <script src='aap.js'></script>
     <script src='js/loksabha.js'></script>
   </head>
 
@@ -38,23 +39,21 @@
      <div class="alert alert-danger">This page is under construction. Please go to <a href='contribute.html'>Contribute</a> section and help us fix it.</div>
      
       <h1 class='page-header'>Loksabha Candidates
-	<select class='pull-right' value="" style='font-size : 16px; width : 200px;'>
-	  <option value="">All India</option>
-	  <option value="delhi">Delhi</option>
-      </select>
+	<select class='pull-right' value="" style='font-size : 16px; width : 200px;'
+		ng-model="selectedState">
+	  <option value=''>All India</option>
+	  <option value='{{candidate.State}}' ng-repeat="candidate in candidates|unique:'State'">{{candidate.State}}</option>
+	</select>
       </h1>
       <div class='row'>
-	<div class='col-lg-3'>
+	<div class='col-lg-2'>
+	  <h3>At A Glance</h3>
 	  <div class="list-group">
-	    <a href="#" class="list-group-item active">Journalists <span class='badge'>3</span></a>
-	    <a href="#" class="list-group-item">IAS/IPS <span class='badge'>2</span></a>
-	    <a href="#" class="list-group-item">Lawyers <span class='badge'>4</span></a>
-	    <a href="#" class="list-group-item">Social Activists <span class='badge'>5</span></a>
-	    <a href="#" class="list-group-item">Entrepreneurs <span class='badge'>10</span></a>
+	    <a href="#" class="list-group-item" ng-repeat="tag in tags(candidates)">{{tag.label}} <span class='badge'>{{tag.count}}</span></a>
 	  </div>
 	</div>
-	<div class='col-lg-8'>
-	  <div class="media" ng-repeat='candidate in candidates' style='border-bottom : 1px solid #999; padding-bottom : 10px;'>
+	<div class='col-lg-10'>
+	  <div class="media" ng-repeat='candidate in candidates|filter:{State:selectedState}' style='border-bottom : 1px solid #999; padding-bottom : 10px;'>
 	    <a class="pull-left" href="#">
 	      <img class="media-object" src="{{candidate.photo}}">
 	    </a>
