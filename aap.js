@@ -5,7 +5,8 @@ var AAP_CANDIDATES = [
     "name":"Sanjay Meshack",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Arunachal Pradesh",
@@ -13,7 +14,8 @@ var AAP_CANDIDATES = [
     "name":"Habung Payeng",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Assam",
@@ -21,7 +23,8 @@ var AAP_CANDIDATES = [
     "name":"Azmal Hussain",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Assam",
@@ -29,7 +32,8 @@ var AAP_CANDIDATES = [
     "name":"Tapan Sutbanshi",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Assam",
@@ -37,7 +41,8 @@ var AAP_CANDIDATES = [
     "name":"Pranjal Bordoloy",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Assam",
@@ -45,7 +50,8 @@ var AAP_CANDIDATES = [
     "name":"Manorom Gogoi",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Assam",
@@ -53,7 +59,8 @@ var AAP_CANDIDATES = [
     "name":"Tarun Kumar Das",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Assam",
@@ -61,7 +68,8 @@ var AAP_CANDIDATES = [
     "name":"Hiramoni Deka Sonowal",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Assam",
@@ -69,7 +77,8 @@ var AAP_CANDIDATES = [
     "name":"Namrata Sharma",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Bihar",
@@ -77,7 +86,8 @@ var AAP_CANDIDATES = [
     "name":"Ragini Lata Singh",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Bihar",
@@ -85,7 +95,8 @@ var AAP_CANDIDATES = [
     "name":"Neeraj Kumar",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Bihar",
@@ -93,7 +104,8 @@ var AAP_CANDIDATES = [
     "name":"Dr. Shweta Pathak",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Bihar",
@@ -101,7 +113,8 @@ var AAP_CANDIDATES = [
     "name":"Dr. Prabhat Ranjan Das",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Bihar",
@@ -109,7 +122,8 @@ var AAP_CANDIDATES = [
     "name":"Dhanajay Paswan",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Bihar",
@@ -117,7 +131,8 @@ var AAP_CANDIDATES = [
     "name":"Binod Kumar Das",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Bihar",
@@ -125,7 +140,8 @@ var AAP_CANDIDATES = [
     "name":"Ghulam Kundanam",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Bihar",
@@ -133,7 +149,8 @@ var AAP_CANDIDATES = [
     "name":"Victor Jha",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Bihar",
@@ -141,7 +158,8 @@ var AAP_CANDIDATES = [
     "name":"Dr. Swami Vivekanand",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Bihar",
@@ -149,7 +167,8 @@ var AAP_CANDIDATES = [
     "name":"Alimuddin Ansari",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Bihar",
@@ -157,7 +176,8 @@ var AAP_CANDIDATES = [
     "name":"Irshad",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Bihar",
@@ -165,7 +185,8 @@ var AAP_CANDIDATES = [
     "name":"Sandeep Kumar",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Bihar",
@@ -173,7 +194,8 @@ var AAP_CANDIDATES = [
     "name":"Pranav Prakash",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Bihar",
@@ -181,7 +203,8 @@ var AAP_CANDIDATES = [
     "name":"Rajendra Singh",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Bihar",
@@ -189,7 +212,8 @@ var AAP_CANDIDATES = [
     "name":"Geeta Arya",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Chandigarh",
@@ -197,7 +221,8 @@ var AAP_CANDIDATES = [
     "name":"Gul Panag",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Chhattisgarh",
@@ -205,7 +230,8 @@ var AAP_CANDIDATES = [
     "name":"Soni Sori",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Chhattisgarh",
@@ -213,7 +239,8 @@ var AAP_CANDIDATES = [
     "name":"Anand Mishra",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Chhattisgarh",
@@ -221,7 +248,8 @@ var AAP_CANDIDATES = [
     "name":"Lakshman Masuriya",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Dadra and Nagar Haveli",
@@ -229,7 +257,8 @@ var AAP_CANDIDATES = [
     "name":"Chotubhai Patel",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Daman and Diu",
@@ -237,7 +266,8 @@ var AAP_CANDIDATES = [
     "name":"Kessur Goan",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Goa",
@@ -245,7 +275,8 @@ var AAP_CANDIDATES = [
     "name":"Dr. Dattaram B Desai",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Goa",
@@ -253,7 +284,8 @@ var AAP_CANDIDATES = [
     "name":"Swati Shridhar Kerkar",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Gujarat",
@@ -261,7 +293,8 @@ var AAP_CANDIDATES = [
     "name":"Raval Sanjay Kumar Somnathbhai",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Gujarat",
@@ -269,7 +302,8 @@ var AAP_CANDIDATES = [
     "name":"Shekhada Atulbhai Govindbhai",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Gujarat",
@@ -277,7 +311,8 @@ var AAP_CANDIDATES = [
     "name":"Solanki Natvarbhai Gova Bhai",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Haryana",
@@ -285,7 +320,8 @@ var AAP_CANDIDATES = [
     "name":"SP Singh",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Haryana",
@@ -293,7 +329,8 @@ var AAP_CANDIDATES = [
     "name":"Lalit Agarwal",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Haryana",
@@ -301,7 +338,8 @@ var AAP_CANDIDATES = [
     "name":"Purshottam Dagar",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Haryana",
@@ -309,7 +347,8 @@ var AAP_CANDIDATES = [
     "name":"Yogendra Yadav",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Haryana",
@@ -317,7 +356,8 @@ var AAP_CANDIDATES = [
     "name":"Yudhbir singh Khyalia",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Haryana",
@@ -325,7 +365,8 @@ var AAP_CANDIDATES = [
     "name":"Paramjeet",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Haryana",
@@ -333,7 +374,8 @@ var AAP_CANDIDATES = [
     "name":"Balwinder Kaur",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Haryana",
@@ -341,7 +383,8 @@ var AAP_CANDIDATES = [
     "name":"Naveen Jaihind",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Haryana",
@@ -349,7 +392,8 @@ var AAP_CANDIDATES = [
     "name":"Poonam Chand Ratti",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Haryana",
@@ -357,7 +401,8 @@ var AAP_CANDIDATES = [
     "name":"Jaisingh Thekedar",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Himachal Pradesh",
@@ -365,7 +410,8 @@ var AAP_CANDIDATES = [
     "name":"Kamal Kant Batra",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Himachal Pradesh",
@@ -373,7 +419,8 @@ var AAP_CANDIDATES = [
     "name":"Dr. Rajan Sushant",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Jammu & Kashmir",
@@ -381,39 +428,44 @@ var AAP_CANDIDATES = [
     "name":"Dr. Raja Muzaffar Bhat",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Karnataka",
     "Constituency":"Bangalore Central",
     "name":"V. Balakrishnan",
     "tags":"entrepreneur",
-    "Photo":"",
-    "Profile":"Mr. V. Balakrishnan, also known as Bala, is the Founder and Chairman of Exfinity. Mr. Balakrishnan served as Head of BPO, Finacle & India Business Unit at Infosys Ltd. He served as the Chief Financial Officer of Infosys Ltd., from May 1, 2006 to October 31, 2012. He served as Secretary and Senior Vice President - Finance of Infosys Ltd., from joining it in 2001 to April 2006. He served as Vice President - Finance of Infosys Ltd and also served in various capacities in Finance department. Prior to that, he served as Senior Accounts Executive of Amco Batteries Limited. Mr. Balakrishnan serves as an Independent Director of Tejas Networks Ltd. (formerly Tejas Networks India Ltd.). He served as Chairman of the Board at Infosys BPO Limited and Chairman of Infosys Lodestone. He served as a Whole-Time Director of Infosys Ltd. from June 11, 2011 to December 31, 2013."
+    "Photo":"http://aapnewslive.in/wp-content/uploads/2014/03/bala_kv_1783719e.jpg",
+    "Profile":"Mr. V. Balakrishnan, also known as Bala, is the Founder and Chairman of Exfinity. Mr. Balakrishnan has served as the Chief Financial Officer of Infosys Ltd., from 2006 to  2012. He served as Secretary and Senior Vice President - Finance of Infosys Ltd., from joining it in 2001 to April 2006. Prior to that, he served as Senior Accounts Executive of Amco Batteries Limited. Mr. Balakrishnan serves as an Independent Director of Tejas Networks Ltd. . He served as Chairman of the Board at Infosys BPO Limited and Chairman of Infosys Lodestone. ",
+    "birthyear":null
   },
   {
     "State":"Karnataka",
     "Constituency":"Bangalore North",
     "name":"Prof Babu Mathew",
-    "tags":"",
-    "Photo":"",
-    "Profile":""
+    "tags":"professor,lawyer",
+    "Photo":"http://barandbench.com/sites/default/files/styles/article/public/field/image/Babu%20Mathew.jpg",
+    "Profile":"Babu Mathew was one of the pioneers of NLSIU. He quit his job of professor at National Law University-Delhi to join Aam Aadmi Party. He is a Nehru Fellow at the Nehru Memorial Museum & Library. A noted philanthropist, Babu has been the Vice President of the Trade Union International affiliated to the World Federation of Trade Unions. Babu has contributed immensely to Labour Law reforms, Child Rights, Human Rights, Legal Reforms and in protecting the rights of working people and provided consultancy to several international universities. He has also been a negotiator to settle several disputes under the Industrial Disputes Act 1947. Babu Mathew is committed to provide his expertise to citizens of Bangalore to reclaim their city, make it safe and address civic, social, developmental and human rights related issues.",
+    "birthyear":null
   },
   {
     "State":"Karnataka",
     "Constituency":"Bangalore Rural",
     "name":"Ravikrishna Reddy",
-    "tags":"",
-    "Photo":"",
-    "Profile":""
+    "tags":"activist,US-Return",
+    "Photo":"http://ka22.in/wp-content/uploads/2014/03/ravikrishna.jpg",
+    "Profile":"Ravikrishna Reddy inspired by the social awakening in his homeland, left his job in the USA and came back to become a political and social activist who has exposed many corruption scandals in Karnataka. He has participated in many debates and has openly expressed his views on several issues that concern the citizens of Karnataka. As a resident of Anekal taluk he has had the opportunity to travel extensively through Bangalore Rural district. He has been a key proponent of the Indian Against Corruption movement and was an office bearer of the Loksatta party. ",
+    "birthyear":1973
   },
   {
     "State":"Karnataka",
     "Constituency":"Bangalore South",
     "name":"Nina P. Nayak",
-    "tags":"",
-    "Photo":"",
-    "Profile":""
+    "tags":"Activist",
+    "Photo":"https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Nina_Nayak.jpg/450px-Nina_Nayak.jpg",
+    "Profile":"Nina Nayak is a child rights activist from Dakshina Kannada. She is fighting for rights of children over the years. She has also authored several articles and a book, and given a talk on the role of children in governance in a TEDx event in Bangalore on 6th April 2012. She is a former Chairperson for Karnataka State Commission for Protection of Child Rights. Previously, she was also the Vice-President of the Indian Council for Child Welfare and member of the sub-committee on children in the National Planning Commission of India.",
+    "birthyear":1953
   },
   {
     "State":"Karnataka",
@@ -421,7 +473,8 @@ var AAP_CANDIDATES = [
     "name":"Chandrakant Kulkarni",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Karnataka",
@@ -429,7 +482,8 @@ var AAP_CANDIDATES = [
     "name":"K. Arkesh",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Karnataka",
@@ -437,7 +491,8 @@ var AAP_CANDIDATES = [
     "name":"Ashfaq Ahmed Madaki",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Karnataka",
@@ -445,7 +500,8 @@ var AAP_CANDIDATES = [
     "name":"M. R. Vasudeva",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Karnataka",
@@ -453,7 +509,8 @@ var AAP_CANDIDATES = [
     "name":"Hemant Kumar",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Karnataka",
@@ -461,7 +518,8 @@ var AAP_CANDIDATES = [
     "name":"B.T.Lalitha Naik",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Karnataka",
@@ -469,7 +527,8 @@ var AAP_CANDIDATES = [
     "name":"Kotiganahalli Ramaiah",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Karnataka",
@@ -477,7 +536,8 @@ var AAP_CANDIDATES = [
     "name":"Bhimaraya",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Karnataka",
@@ -485,7 +545,8 @@ var AAP_CANDIDATES = [
     "name":"G. Sridhara Kallahalla",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Kerala",
@@ -493,7 +554,8 @@ var AAP_CANDIDATES = [
     "name":"K M Noordeen",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Kerala",
@@ -501,7 +563,8 @@ var AAP_CANDIDATES = [
     "name":"Smt. Anita Pratap",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Kerala",
@@ -509,7 +572,8 @@ var AAP_CANDIDATES = [
     "name":"Silvi Sunil",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Kerala",
@@ -517,7 +581,8 @@ var AAP_CANDIDATES = [
     "name":"Shri. Ambalathara Kunji Krishnan (M.Krishnan)",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Kerala",
@@ -525,7 +590,8 @@ var AAP_CANDIDATES = [
     "name":"Adv Anil Aickara ",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Kerala",
@@ -533,7 +599,8 @@ var AAP_CANDIDATES = [
     "name":"K P Ratheesh",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Kerala",
@@ -541,7 +608,8 @@ var AAP_CANDIDATES = [
     "name":"N Sadanandan",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Kerala",
@@ -549,7 +617,8 @@ var AAP_CANDIDATES = [
     "name":"Padmanabhan Bhaskaran",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Kerala",
@@ -557,7 +626,8 @@ var AAP_CANDIDATES = [
     "name":"Ajit Joy",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Kerala",
@@ -565,7 +635,8 @@ var AAP_CANDIDATES = [
     "name":"Sarah Joseph",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Madhya Pradesh",
@@ -573,7 +644,8 @@ var AAP_CANDIDATES = [
     "name":"U K Chaudhary",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Madhya Pradesh",
@@ -581,7 +653,8 @@ var AAP_CANDIDATES = [
     "name":"Rajesh Sareram",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Madhya Pradesh",
@@ -589,7 +662,8 @@ var AAP_CANDIDATES = [
     "name":"Krishna Mahobia",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Madhya Pradesh",
@@ -597,7 +671,8 @@ var AAP_CANDIDATES = [
     "name":"Rachna Dheengra",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Madhya Pradesh",
@@ -605,7 +680,8 @@ var AAP_CANDIDATES = [
     "name":"Mahesh Madhavlal Dubey",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Madhya Pradesh",
@@ -613,7 +689,8 @@ var AAP_CANDIDATES = [
     "name":"Santosh Bharti",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Madhya Pradesh",
@@ -621,7 +698,8 @@ var AAP_CANDIDATES = [
     "name":"Sujeet Sangte",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Madhya Pradesh",
@@ -629,7 +707,8 @@ var AAP_CANDIDATES = [
     "name":"Hemlata Dhad",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Madhya Pradesh",
@@ -637,7 +716,8 @@ var AAP_CANDIDATES = [
     "name":"Shailendra Singh Kushwaha",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Madhya Pradesh",
@@ -645,7 +725,8 @@ var AAP_CANDIDATES = [
     "name":"Neelam Agrawal",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Madhya Pradesh",
@@ -653,7 +734,8 @@ var AAP_CANDIDATES = [
     "name":"Maya Vishwakarma",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Madhya Pradesh",
@@ -661,7 +743,8 @@ var AAP_CANDIDATES = [
     "name":"Anil Trivedi",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Madhya Pradesh",
@@ -669,7 +752,8 @@ var AAP_CANDIDATES = [
     "name":"Capt. Abdul Nasir Hanfee",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Madhya Pradesh",
@@ -677,7 +761,8 @@ var AAP_CANDIDATES = [
     "name":"Amit Bhatnagar",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Madhya Pradesh",
@@ -685,7 +770,8 @@ var AAP_CANDIDATES = [
     "name":"Alok Aggarwal",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Madhya Pradesh",
@@ -693,7 +779,8 @@ var AAP_CANDIDATES = [
     "name":"Kailash Awasya",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Madhya Pradesh",
@@ -701,7 +788,8 @@ var AAP_CANDIDATES = [
     "name":"Khuman Singh Armo",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Madhya Pradesh",
@@ -709,7 +797,8 @@ var AAP_CANDIDATES = [
     "name":"Paras Saklecha",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Madhya Pradesh",
@@ -717,7 +806,8 @@ var AAP_CANDIDATES = [
     "name":"Devendra Agrawal",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Madhya Pradesh",
@@ -725,7 +815,8 @@ var AAP_CANDIDATES = [
     "name":"Prashant Tripathi",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Madhya Pradesh",
@@ -733,7 +824,8 @@ var AAP_CANDIDATES = [
     "name":"Henri Machar",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Madhya Pradesh",
@@ -741,7 +833,8 @@ var AAP_CANDIDATES = [
     "name":"Poornanand Tiwari",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Madhya Pradesh",
@@ -749,7 +842,8 @@ var AAP_CANDIDATES = [
     "name":"Atul Mishra",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Madhya Pradesh",
@@ -757,7 +851,8 @@ var AAP_CANDIDATES = [
     "name":"Jagdish Singh",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Madhya Pradesh",
@@ -765,7 +860,8 @@ var AAP_CANDIDATES = [
     "name":"Vijay Kumar Kol",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Madhya Pradesh",
@@ -773,7 +869,8 @@ var AAP_CANDIDATES = [
     "name":"Pankaj Singh",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Madhya Pradesh",
@@ -781,7 +878,8 @@ var AAP_CANDIDATES = [
     "name":"Aneeta Hindoliya",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Madhya Pradesh",
@@ -789,7 +887,8 @@ var AAP_CANDIDATES = [
     "name":"Bhagawat Singh Rajput",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -797,7 +896,8 @@ var AAP_CANDIDATES = [
     "name":"Deepali Sayed",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -805,7 +905,8 @@ var AAP_CANDIDATES = [
     "name":"Ajay Panjabrao Hinglekar",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -813,7 +914,8 @@ var AAP_CANDIDATES = [
     "name":"Bhawna Bhavesh Vasnik",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -821,7 +923,8 @@ var AAP_CANDIDATES = [
     "name":"Subahsh Lomte",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -829,7 +932,8 @@ var AAP_CANDIDATES = [
     "name":"IPS Khopade",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -837,7 +941,8 @@ var AAP_CANDIDATES = [
     "name":"Nandu Madhav",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -845,7 +950,8 @@ var AAP_CANDIDATES = [
     "name":"Prashant Mishra",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -853,7 +959,8 @@ var AAP_CANDIDATES = [
     "name":"Jalaluddin Ansari",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -861,7 +968,8 @@ var AAP_CANDIDATES = [
     "name":"Sudhir Surve",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -869,7 +977,8 @@ var AAP_CANDIDATES = [
     "name":"Wamanrao Sudaishirao",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -877,7 +986,8 @@ var AAP_CANDIDATES = [
     "name":"Ansari Nihal Ahmed Mohammed Haroon",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -885,7 +995,8 @@ var AAP_CANDIDATES = [
     "name":"Raghunath Dada Patil",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -893,7 +1004,8 @@ var AAP_CANDIDATES = [
     "name":"Sangram Gokulsingh Patil",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -901,7 +1013,8 @@ var AAP_CANDIDATES = [
     "name":"Deelip Mhaske",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -909,7 +1022,8 @@ var AAP_CANDIDATES = [
     "name":"Naresh Thakur",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -917,7 +1031,8 @@ var AAP_CANDIDATES = [
     "name":"Savita Shinde",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -925,7 +1040,8 @@ var AAP_CANDIDATES = [
     "name":"Maruti Sahebraw Bhapkar",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -933,7 +1049,8 @@ var AAP_CANDIDATES = [
     "name":"Satish Jain",
     "tags":"",
     "Photo":"",
-    "Profile":"Fund manager, HDFC. Director, Morgan Stanley"
+    "Profile":"Fund manager, HDFC. Director, Morgan Stanley",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -941,7 +1058,8 @@ var AAP_CANDIDATES = [
     "name":"Medha Patkhar",
     "tags":"social activist",
     "Photo":"",
-    "Profile":"Well known face of Narmada Bachao Andolan"
+    "Profile":"Well known face of Narmada Bachao Andolan",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -949,15 +1067,17 @@ var AAP_CANDIDATES = [
     "name":"Mayank Gandhi",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
     "Constituency":"Mumbai South",
     "name":"Meera Sanyal",
-    "tags":"",
-    "Photo":"",
-    "Profile":""
+    "tags":"investment banker,ceo,MBA,entrepreneur",
+    "Photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Meerahsanyal.JPG/440px-Meerahsanyal.JPG",
+    "Profile":"She is President of LiberalsIndia for Good Governance - the Indian Liberal Group, a not for profit think tank, that provides a platform for like minded Indian Liberals and Active Citizens to work towards improving the quality of life and state of Governance in India. Former CEO of Royal Bank of Scotland. \n",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -965,7 +1085,8 @@ var AAP_CANDIDATES = [
     "name":"Anjali Damania",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -973,7 +1094,8 @@ var AAP_CANDIDATES = [
     "name":"Narendra Singh Granthi",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -981,7 +1103,8 @@ var AAP_CANDIDATES = [
     "name":"Vijay Baliram Pandhare",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -989,7 +1112,8 @@ var AAP_CANDIDATES = [
     "name":"Vikram Salve",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -997,7 +1121,8 @@ var AAP_CANDIDATES = [
     "name":"Pandhurang Jethya Pardhi",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -1005,7 +1130,8 @@ var AAP_CANDIDATES = [
     "name":"Salma Kulkarni",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -1013,7 +1139,8 @@ var AAP_CANDIDATES = [
     "name":"Subash Ware",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -1021,7 +1148,8 @@ var AAP_CANDIDATES = [
     "name":"Dr Sanjay Apranti",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -1029,7 +1157,8 @@ var AAP_CANDIDATES = [
     "name":"Pratap Goswami",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -1037,7 +1166,8 @@ var AAP_CANDIDATES = [
     "name":"Colonel Gadkari",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -1045,7 +1175,8 @@ var AAP_CANDIDATES = [
     "name":"Pratibha Shinde",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -1053,7 +1184,8 @@ var AAP_CANDIDATES = [
     "name":"Sameena Abdulmajid Khan",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -1061,7 +1193,8 @@ var AAP_CANDIDATES = [
     "name":"Chorghe",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -1069,7 +1202,8 @@ var AAP_CANDIDATES = [
     "name":"Nitin Udmale",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -1077,7 +1211,8 @@ var AAP_CANDIDATES = [
     "name":"Judge Nikam",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -1085,7 +1220,8 @@ var AAP_CANDIDATES = [
     "name":"Lalit Babar",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -1093,7 +1229,8 @@ var AAP_CANDIDATES = [
     "name":"Sanjeev Sane",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -1101,7 +1238,8 @@ var AAP_CANDIDATES = [
     "name":"Md. Alim Patel",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Maharashtra",
@@ -1109,7 +1247,8 @@ var AAP_CANDIDATES = [
     "name":"Naresh P Rathod",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Manipur",
@@ -1117,7 +1256,8 @@ var AAP_CANDIDATES = [
     "name":"Dr. Kh. Ibomcha Singh",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Manipur",
@@ -1125,7 +1265,8 @@ var AAP_CANDIDATES = [
     "name":"Mr. M. Khamchinpou Zou",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Meghalaya",
@@ -1133,7 +1274,8 @@ var AAP_CANDIDATES = [
     "name":"Armerington Kharshiing",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Mizoram",
@@ -1141,15 +1283,17 @@ var AAP_CANDIDATES = [
     "name":"Lal Manzuala",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"NCT of Delhi",
     "Constituency":"Chandni Chowk",
     "name":"Ashutosh",
     "tags":"",
-    "Photo":"",
-    "Profile":""
+    "Photo":"https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-frc3/t1.0-9/1656389_617446668305019_1113333894_n.jpg",
+    "Profile":"Ashutosh is a prominent Indian TV journalist-turned politician of Aam Aadmi Party and spokes person of party. Previously associated with IBN7, of TV18 group.",
+    "birthyear":null
   },
   {
     "State":"NCT of Delhi",
@@ -1157,7 +1301,8 @@ var AAP_CANDIDATES = [
     "name":"Raj Mohan Gandhi",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"NCT of Delhi",
@@ -1165,15 +1310,17 @@ var AAP_CANDIDATES = [
     "name":"Ashish Khetan",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"NCT of Delhi",
     "Constituency":"North East Delhi",
     "name":"Anand Kumar",
     "tags":"",
-    "Photo":"",
-    "Profile":""
+    "Photo":"https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-frc3/t1.0-9/1511005_620983867950860_1031264037_n.jpg",
+    "Profile":"He is professor of sociology in Jawaharlal University. He has taught in many Universities all over the world besides prestigious Universities like JNU and BHU. Professor Anand Kumar is associated with Students movement and have worked on social, political and democratic front.  ",
+    "birthyear":null
   },
   {
     "State":"NCT of Delhi",
@@ -1181,7 +1328,8 @@ var AAP_CANDIDATES = [
     "name":"Mahender Singh",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"NCT of Delhi",
@@ -1189,7 +1337,8 @@ var AAP_CANDIDATES = [
     "name":"Col Devender Sehrawat",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"NCT of Delhi",
@@ -1197,7 +1346,8 @@ var AAP_CANDIDATES = [
     "name":"Jarnail Singh",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Odisha",
@@ -1205,7 +1355,8 @@ var AAP_CANDIDATES = [
     "name":"Prabhat Kumar Mohanty",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Odisha",
@@ -1213,7 +1364,8 @@ var AAP_CANDIDATES = [
     "name":"Mamata Kundu",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Odisha",
@@ -1221,7 +1373,8 @@ var AAP_CANDIDATES = [
     "name":"Lingraj",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Odisha",
@@ -1229,7 +1382,8 @@ var AAP_CANDIDATES = [
     "name":"Dr. Dhanada Kanta Mishra",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Odisha",
@@ -1237,7 +1391,8 @@ var AAP_CANDIDATES = [
     "name":"Narayan Chandra Jena",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Odisha",
@@ -1245,7 +1400,8 @@ var AAP_CANDIDATES = [
     "name":"Bismaya Mahapatra",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Odisha",
@@ -1253,7 +1409,8 @@ var AAP_CANDIDATES = [
     "name":"Dr.Bikash Das",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Odisha",
@@ -1261,7 +1418,8 @@ var AAP_CANDIDATES = [
     "name":"Jimuta Prasad Mishra",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Odisha",
@@ -1269,7 +1427,8 @@ var AAP_CANDIDATES = [
     "name":"Anupama Sethy",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Odisha",
@@ -1277,7 +1436,8 @@ var AAP_CANDIDATES = [
     "name":"KALANDI MALLICK",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Odisha",
@@ -1285,7 +1445,8 @@ var AAP_CANDIDATES = [
     "name":"Satya Mahar",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Odisha",
@@ -1293,7 +1454,8 @@ var AAP_CANDIDATES = [
     "name":"Narendra Mohanty",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Odisha",
@@ -1301,7 +1463,8 @@ var AAP_CANDIDATES = [
     "name":"Md. Samim Akhtar",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Odisha",
@@ -1309,7 +1472,8 @@ var AAP_CANDIDATES = [
     "name":"Chhabi Mahali",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Odisha",
@@ -1317,7 +1481,8 @@ var AAP_CANDIDATES = [
     "name":"Harabati Gond",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Odisha",
@@ -1325,7 +1490,8 @@ var AAP_CANDIDATES = [
     "name":"Nirada Barana Khuntia",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Odisha",
@@ -1333,7 +1499,8 @@ var AAP_CANDIDATES = [
     "name":"Anand Samal",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Odisha",
@@ -1341,7 +1508,8 @@ var AAP_CANDIDATES = [
     "name":"Basil Ekka",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Puducherry",
@@ -1349,7 +1517,8 @@ var AAP_CANDIDATES = [
     "name":"Rengarajan V",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Punjab",
@@ -1357,7 +1526,8 @@ var AAP_CANDIDATES = [
     "name":"Himmat Singh Shergill",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Punjab",
@@ -1365,7 +1535,8 @@ var AAP_CANDIDATES = [
     "name":"Prof. Sadhu Singh",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Punjab",
@@ -1373,7 +1544,8 @@ var AAP_CANDIDATES = [
     "name":"Sucha Singh Chottepur",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Punjab",
@@ -1381,7 +1553,8 @@ var AAP_CANDIDATES = [
     "name":"Harvinder Singh Phoolka",
     "tags":"lawyer",
     "Photo":"http://bit.ly/1g8UEwA",
-    "Profile":"H. S. Phoolka, is a senior advocate of Delhi High Court, politician, Human Rights activist, and author. He is known for spearheading one of the longest and most tortuous legal[1] \"crusades\"[2] to gain justice for the victims of 1984 anti-Sikh riots and fighting individual cases on the involvement of Congress-I leaders H. K. L. Bhagat, Sajjan Kumar and Jagdish Tytler despite the government cover-up."
+    "Profile":"H. S. Phoolka, is a senior advocate of Delhi High Court, politician, Human Rights activist, and author. He is known for spearheading one of the longest and most tortuous legal[1] \"crusades\"[2] to gain justice for the victims of 1984 anti-Sikh riots and fighting individual cases on the involvement of Congress-I leaders H. K. L. Bhagat, Sajjan Kumar and Jagdish Tytler despite the government cover-up.",
+    "birthyear":null
   },
   {
     "State":"Punjab",
@@ -1389,7 +1562,8 @@ var AAP_CANDIDATES = [
     "name":"Dr. Dharamvira Gandhi",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Punjab",
@@ -1397,7 +1571,8 @@ var AAP_CANDIDATES = [
     "name":"Bhagwant Mann",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Rajasthan",
@@ -1405,7 +1580,8 @@ var AAP_CANDIDATES = [
     "name":"Virendra Vidrohi",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Rajasthan",
@@ -1413,7 +1589,8 @@ var AAP_CANDIDATES = [
     "name":"Sunil Agiwal",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Rajasthan",
@@ -1421,7 +1598,8 @@ var AAP_CANDIDATES = [
     "name":"Dr. Narendra Gupta",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Rajasthan",
@@ -1429,7 +1607,8 @@ var AAP_CANDIDATES = [
     "name":"K K Saharan",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Rajasthan",
@@ -1437,7 +1616,8 @@ var AAP_CANDIDATES = [
     "name":"Dr. Virendra Singh",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Rajasthan",
@@ -1445,7 +1625,8 @@ var AAP_CANDIDATES = [
     "name":"Raj Kadyan",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Rajasthan",
@@ -1453,7 +1634,8 @@ var AAP_CANDIDATES = [
     "name":"Ashok kumar Jain",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Rajasthan",
@@ -1461,7 +1643,8 @@ var AAP_CANDIDATES = [
     "name":"Major Surendra Kumar Punia",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Rajasthan",
@@ -1469,7 +1652,8 @@ var AAP_CANDIDATES = [
     "name":"Velaram Meena",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Sikkim",
@@ -1477,7 +1661,8 @@ var AAP_CANDIDATES = [
     "name":"Kaushal Rai",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Tamil Nadu",
@@ -1485,7 +1670,8 @@ var AAP_CANDIDATES = [
     "name":"J Prabhakar",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Tamil Nadu",
@@ -1493,7 +1679,8 @@ var AAP_CANDIDATES = [
     "name":"Pon Chandran",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Tamil Nadu",
@@ -1501,7 +1688,8 @@ var AAP_CANDIDATES = [
     "name":"K K Kumarasamy",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Tamil Nadu",
@@ -1509,7 +1697,8 @@ var AAP_CANDIDATES = [
     "name":"Dr. S.P. Udayakumar",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Tamil Nadu",
@@ -1517,7 +1706,8 @@ var AAP_CANDIDATES = [
     "name":"Satheesh Kumar",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Tamil Nadu",
@@ -1525,7 +1715,8 @@ var AAP_CANDIDATES = [
     "name":"M. Pushparayan",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Tamil Nadu",
@@ -1533,7 +1724,8 @@ var AAP_CANDIDATES = [
     "name":"Jesuraj M.P.",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Tamil Nadu",
@@ -1541,7 +1733,8 @@ var AAP_CANDIDATES = [
     "name":"R.Chakravarthy Rajagopalakrishnan",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Tripura",
@@ -1549,7 +1742,8 @@ var AAP_CANDIDATES = [
     "name":"Karna Bijoy Jamatia",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Tripura",
@@ -1557,7 +1751,8 @@ var AAP_CANDIDATES = [
     "name":"DR. SALIL SAHA",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1565,7 +1760,8 @@ var AAP_CANDIDATES = [
     "name":"Ravindra Singh",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1573,7 +1769,8 @@ var AAP_CANDIDATES = [
     "name":"Sabir Rahi",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1581,7 +1778,8 @@ var AAP_CANDIDATES = [
     "name":"Kramveer Chakravarti",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1589,7 +1787,8 @@ var AAP_CANDIDATES = [
     "name":"Kumar Vishwas",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1597,7 +1796,8 @@ var AAP_CANDIDATES = [
     "name":"Mullana Kalbe Rushaid",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1605,7 +1805,8 @@ var AAP_CANDIDATES = [
     "name":"Naresh Singh",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1613,7 +1814,8 @@ var AAP_CANDIDATES = [
     "name":"Rajesh Yadav",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1621,7 +1823,8 @@ var AAP_CANDIDATES = [
     "name":"Hema Mehra",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1629,7 +1832,8 @@ var AAP_CANDIDATES = [
     "name":"Soumendra Dhaka",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1637,7 +1841,8 @@ var AAP_CANDIDATES = [
     "name":"Bharat Singh",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1645,7 +1850,8 @@ var AAP_CANDIDATES = [
     "name":"Amar Singh Rathore",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1653,7 +1859,8 @@ var AAP_CANDIDATES = [
     "name":"Ram Nivas Paswan",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1661,7 +1868,8 @@ var AAP_CANDIDATES = [
     "name":"Dinesh Chandra Gautam",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1669,7 +1877,8 @@ var AAP_CANDIDATES = [
     "name":"Sunil Kumar",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1677,7 +1886,8 @@ var AAP_CANDIDATES = [
     "name":"Varis Aqbal Khan",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1685,7 +1895,8 @@ var AAP_CANDIDATES = [
     "name":"Dr.Gaurav Chauhan",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1693,7 +1904,8 @@ var AAP_CANDIDATES = [
     "name":"Rahul Deepanker",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1701,7 +1913,8 @@ var AAP_CANDIDATES = [
     "name":"Dr Irshad Uddin Ahmed",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1709,7 +1922,8 @@ var AAP_CANDIDATES = [
     "name":"Arun Kumar Tripathi",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1717,7 +1931,8 @@ var AAP_CANDIDATES = [
     "name":"Dilkees Bano",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1725,7 +1940,8 @@ var AAP_CANDIDATES = [
     "name":"Badre Alam",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1733,7 +1949,8 @@ var AAP_CANDIDATES = [
     "name":"Dilip Yadav",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1741,7 +1958,8 @@ var AAP_CANDIDATES = [
     "name":"Ujiyare Lal",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1749,7 +1967,8 @@ var AAP_CANDIDATES = [
     "name":"Iqbal Mustafa",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1757,7 +1976,8 @@ var AAP_CANDIDATES = [
     "name":"Mukul Tripathi",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1765,7 +1985,8 @@ var AAP_CANDIDATES = [
     "name":"Jain Ul Haq",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1773,7 +1994,8 @@ var AAP_CANDIDATES = [
     "name":"Mahaveer Singh Solanki",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1781,7 +2003,8 @@ var AAP_CANDIDATES = [
     "name":"Rakesh Yadav",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1789,7 +2012,8 @@ var AAP_CANDIDATES = [
     "name":"K P Singh",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1797,7 +2021,8 @@ var AAP_CANDIDATES = [
     "name":"Shazia Ilmi",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1805,7 +2030,8 @@ var AAP_CANDIDATES = [
     "name":"Brajbhushan Dubey",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1813,7 +2039,8 @@ var AAP_CANDIDATES = [
     "name":"Mashooq Usmani",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1821,7 +2048,8 @@ var AAP_CANDIDATES = [
     "name":"Prof. Radhey Mohan Mishra",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1829,7 +2057,8 @@ var AAP_CANDIDATES = [
     "name":"Atul Kumar Singh",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1837,7 +2066,8 @@ var AAP_CANDIDATES = [
     "name":"Sunahari Lal Taank",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1845,7 +2075,8 @@ var AAP_CANDIDATES = [
     "name":"Abhilasha Jathav",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1853,7 +2084,8 @@ var AAP_CANDIDATES = [
     "name":"Kailash Prakash Yadav",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1861,7 +2093,8 @@ var AAP_CANDIDATES = [
     "name":"Archana Gupta",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1869,7 +2102,8 @@ var AAP_CANDIDATES = [
     "name":"Sunil Kasana",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1877,7 +2111,8 @@ var AAP_CANDIDATES = [
     "name":"Md. Rizwaan",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1885,7 +2120,8 @@ var AAP_CANDIDATES = [
     "name":"Mahmood Husain Rehmani",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1893,7 +2129,8 @@ var AAP_CANDIDATES = [
     "name":"Dr. Shitla Prasad",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1901,7 +2138,8 @@ var AAP_CANDIDATES = [
     "name":"AKHND PRTAP SINGH",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1909,7 +2147,8 @@ var AAP_CANDIDATES = [
     "name":"Dr. Jiyalal Ra",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1917,7 +2156,8 @@ var AAP_CANDIDATES = [
     "name":"Virendra Kumar Sonker",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1925,7 +2165,8 @@ var AAP_CANDIDATES = [
     "name":"Pasupati Nath Gupt",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1933,7 +2174,8 @@ var AAP_CANDIDATES = [
     "name":"Baba Hardev",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1941,7 +2183,8 @@ var AAP_CANDIDATES = [
     "name":"Anuj Garg",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1949,7 +2192,8 @@ var AAP_CANDIDATES = [
     "name":"Himanshu Singh",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1957,7 +2201,8 @@ var AAP_CANDIDATES = [
     "name":"Sunil Gautam",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1965,7 +2210,8 @@ var AAP_CANDIDATES = [
     "name":"Khalid Parvaiz",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1973,7 +2219,8 @@ var AAP_CANDIDATES = [
     "name":"Mohammed Yamin",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1981,7 +2228,8 @@ var AAP_CANDIDATES = [
     "name":"Sarika Choudhary",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1989,7 +2237,8 @@ var AAP_CANDIDATES = [
     "name":"Shimla Sree",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -1997,7 +2246,8 @@ var AAP_CANDIDATES = [
     "name":"Rajiv Agrawal",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -2005,7 +2255,8 @@ var AAP_CANDIDATES = [
     "name":"Ashok Kumar Shukla",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -2013,7 +2264,8 @@ var AAP_CANDIDATES = [
     "name":"Salman Ali Khan",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -2021,7 +2273,8 @@ var AAP_CANDIDATES = [
     "name":"Ram Dhyan Bharti",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -2029,7 +2282,8 @@ var AAP_CANDIDATES = [
     "name":"Yogesh Dahiya",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -2037,7 +2291,8 @@ var AAP_CANDIDATES = [
     "name":"Chandra Pratap Singh",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -2045,7 +2300,8 @@ var AAP_CANDIDATES = [
     "name":"Hurr Mehdi Baqri Sohail",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -2053,7 +2309,8 @@ var AAP_CANDIDATES = [
     "name":"Aftab Alam Khan",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -2061,7 +2318,8 @@ var AAP_CANDIDATES = [
     "name":"Reeta Singh Jhatav",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -2069,7 +2327,8 @@ var AAP_CANDIDATES = [
     "name":"Ratnesh Kumar Pandey",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -2077,7 +2336,8 @@ var AAP_CANDIDATES = [
     "name":"Shefali Misra",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -2085,7 +2345,8 @@ var AAP_CANDIDATES = [
     "name":"Shailendra Pratap Singh",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttar Pradesh",
@@ -2093,7 +2354,8 @@ var AAP_CANDIDATES = [
     "name":"Arvind Kumar",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttarakhand",
@@ -2101,7 +2363,8 @@ var AAP_CANDIDATES = [
     "name":"Harish Chandra",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttarakhand",
@@ -2109,7 +2372,8 @@ var AAP_CANDIDATES = [
     "name":"Kanchan Choudhary Bhattacharya",
     "tags":"IPS,social activist",
     "Photo":"http://bit.ly/1nCnCZI",
-    "Profile":"Kanchan Chaudhry Bhattacharya, India's second woman IPS after Kiran Bedi and first woman DGP of Uttrakhand and now a women rights activist is AAP's Loksabha candidate from HARIDWAR. \"UDAAN\" a popular TV Serial on DoorDarshan in 1980s was also inspired by her life story.She deserve to sit in the Indian parliament and we will make sure it happens !"
+    "Profile":"Kanchan Chaudhry Bhattacharya, India's second woman IPS after Kiran Bedi and first woman DGP of Uttrakhand and now a women rights activist is AAP's Loksabha candidate from HARIDWAR. \"UDAAN\" a popular TV Serial on DoorDarshan in 1980s was also inspired by her life story.She deserve to sit in the Indian parliament and we will make sure it happens !",
+    "birthyear":null
   },
   {
     "State":"Uttarakhand",
@@ -2117,7 +2381,8 @@ var AAP_CANDIDATES = [
     "name":"Balli Singh Cheema",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   },
   {
     "State":"Uttarakhand",
@@ -2125,6 +2390,14 @@ var AAP_CANDIDATES = [
     "name":"Anoop Nautiyal",
     "tags":"",
     "Photo":"",
-    "Profile":""
+    "Profile":"",
+    "birthyear":null
   }
 ];
+
+var MAP = {
+    'All India' : 'https://www.google.com/maps/vt/data=VLHX1wd2Cgu8wR6jwyh-km8JBWAkEzU4,FoBmuRi41tI41px7JOpRD6eEqXzkR837eaU7rPaM_wOs13Jq6VMQkBxReglQlF2NZ7PlzDRqLw0Wj_uvrkmgF1wN1-z_-UJ7nJbrNA',
+    'Andaman' : 'https://www.google.com/maps/vt/data=VLHX1wd2Cgu8wR6jwyh-km8JBWAkEzU4,4vqMyh5x3Wp7ShKpPjwxOyFVHBWA5it7iPMxWOWMbq5YtE8MVEoWYg5m9rRq6b3DaRpKsmQvmRHRBviXMquqBw4',
+    'Maharashtra' : 'https://www.google.com/maps/vt/data=VLHX1wd2Cgu8wR6jwyh-km8JBWAkEzU4,tMeUzByrJhH6QgDAiQVp96vDOJCyLp-cZZtDQep29hBsrxiIFvVDZR7CJ9t_lxzrlY8V6GTNW8-laSw9lTFXVWr2CVQxIAVVg_CEEAfJq7D7t29HUvpIdtCB1MEnHaqYmPZPBU40tTYl0DJLAn3L5uMAKCEzmdv_Mde9UhTOnBUdmJHadWtydGRD4qCopffKuhwNTZZ8',
+    'Karnataka' : 'https://www.google.co.in/maps/vt/data=VLHX1wd2Cgu8wR6jwyh-km8JBWAkEzU4,CxH8f1juW5BMDMQk6sLrxeQtV3XlTwa_dyb36LqQBc3__rIN1JYPvBheeu0G5eLLBa8UiRxwqU7pJpk0bTkQ5Hff0rB-hW8x_F3HRLf1Ht_PMxN34VH1fUgXEOZWU2kIdmDDukBBjt_AdIeD4t5dSGuLCi4ead7JrSEsqCaKdApXwuzHEblNuQPlHdMk--B2_MLghbh0RLwhKg'
+};
