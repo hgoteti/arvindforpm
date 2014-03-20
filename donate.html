@@ -47,14 +47,16 @@
         <div class="row" style="margin-top:50px;">
             
             <div class="col-sm-5 col-md-3" ng-repeat="cause in causes">
-                <div class="thumbnail">
-                    <img src="{{cause.photo}}" style="width:300px;height:200px;">
-                    <h3>{{cause.name}}</h3>
-                    <h4>Rs. {{cause.amount}}</h4>
-                    <div style="height: 150px; overflow:hidden; text-overflow: ellipsis;">
-                        <p >{{cause.short_desc}}</p>
+                <div class="thumbnail" style="padding:0">
+                    <div style="text-align:center;color:#999;font-size:18px;padding:20px;">Your</div>
+                    <h3 style="text-align:center;margin-top:0px;">Rs. {{cause.amount|number:0}}</h3>
+                    <div style="height: 50px; overflow:hidden; text-overflow: ellipsis; text-align:center; padding: 5px;">
+                        <p >{{cause.pitch}}</p>
                     </div>
                     <p style="text-align:center;"><a href="{{cause.url}}" target="_blank" class="btn btn-primary" role="button">Donate</a></p>
+                    <div style="border-top: 1px solid #ddd; height: 50px;padding:5px;">
+                        <p>{{cause.need}}</p>
+                    </div>
                 </div>
             </div>
         </div>
