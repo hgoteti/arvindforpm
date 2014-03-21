@@ -1,0 +1,67 @@
+<h1 class='page-header'>
+  {{candidate.name}}
+  <div class='pull-right'><h3><a ui-sref='home({state : candidate.State})'>{{candidate.State}}</a></h3></div>
+</h1>
+<div class='row'>
+  <div class='col-lg-2'>
+    <img class="media-object" ng-src="{{candidate.Photo}}" style='width : 100%;'>
+    <div class="progress" style='margin-top : 10px;'>
+      <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
+	Winnability
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-10">
+    <tabset>
+      <tab heading="About">
+	<div style='padding-top : 10px;'>
+	  <p>{{candidate.Profile}}</p>
+	  <blockquote>
+	    <p>{{candidate.tags}}</p>
+	  </blockquote>
+	</div>
+      </tab>
+      <tab heading='{{candidate.Constituency}}'>
+	Blah Blah
+      </tab>
+      <tab heading='Manifesto'>
+
+      </tab>
+      <tab heading='Videos'>
+
+      </tab>
+    </tabset>
+  </div>
+</div>
+<h2 class='page-header'>Contesting Against</h2>
+<div class="row">
+      <div class="col-sm-6 col-md-3">
+        <div class="thumbnail">
+          <img alt="300x200" data-src="holder.js/300x200" style="width: 300px; height: 200px;" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMjAwIj48cmVjdCB3aWR0aD0iMzAwIiBoZWlnaHQ9IjIwMCIgZmlsbD0iI2VlZSIvPjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjE1MCIgeT0iMTAwIiBzdHlsZT0iZmlsbDojYWFhO2ZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1zaXplOjE5cHg7Zm9udC1mYW1pbHk6QXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWY7ZG9taW5hbnQtYmFzZWxpbmU6Y2VudHJhbCI+MzAweDIwMDwvdGV4dD48L3N2Zz4=">
+          <div class="caption">
+            <h3>Shashi Tharoor</h3>
+            <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-3">
+        <div class="thumbnail">
+          <img alt="300x200" data-src="holder.js/300x200" style="width: 300px; height: 200px;" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMjAwIj48cmVjdCB3aWR0aD0iMzAwIiBoZWlnaHQ9IjIwMCIgZmlsbD0iI2VlZSIvPjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjE1MCIgeT0iMTAwIiBzdHlsZT0iZmlsbDojYWFhO2ZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1zaXplOjE5cHg7Zm9udC1mYW1pbHk6QXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWY7ZG9taW5hbnQtYmFzZWxpbmU6Y2VudHJhbCI+MzAweDIwMDwvdGV4dD48L3N2Zz4=">
+          <div class="caption">
+            <h3>Sonia Gandhi</h3>
+            <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+            <p><a role="button" class="btn btn-primary" href="#">Corrupt</a> <a role="button" class="btn btn-default" href="#">Dynasty</a></p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-3">
+        <div class="thumbnail">
+          <img alt="300x200" data-src="holder.js/300x200" style="width: 300px; height: 200px;" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMjAwIj48cmVjdCB3aWR0aD0iMzAwIiBoZWlnaHQ9IjIwMCIgZmlsbD0iI2VlZSIvPjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjE1MCIgeT0iMTAwIiBzdHlsZT0iZmlsbDojYWFhO2ZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1zaXplOjE5cHg7Zm9udC1mYW1pbHk6QXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWY7ZG9taW5hbnQtYmFzZWxpbmU6Y2VudHJhbCI+MzAweDIwMDwvdGV4dD48L3N2Zz4=">
+          <div class="caption">
+            <h3>Rahul Gandhi</h3>
+            <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+            <p><a role="button" class="btn btn-default" href="#">Dynasty</a></p>
+          </div>
+        </div>
+      </div>
+    </div>

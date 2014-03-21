@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" ng-app='loksabhaApp'>
+<html lang="en" ng-app='loksabhaApp' ng-controller='RootController'>
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -20,11 +20,17 @@
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-    <script src='https://ajax.googleapis.com/ajax/libs/angularjs/1.2.14/angular.min.js'></script>
+    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src='https://ajax.googleapis.com/ajax/libs/angularjs/1.2.14/angular.js'></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/ui-bootstrap.js"></script>
+    <script src='http://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.8/angular-ui-router.js'></script>
+    <!-- aap.js is the backend. It's generated from the Spreadsheet https://docs.google.com/spreadsheet/ccc?key=0Aqg_7y7COs1qdF9ydDFYTko2OUthNHZUX2Zld3poMUE&usp=sharing#gid=0 -->
+    <script src='aap.js'></script>
     <script src='js/loksabha.js'></script>
   </head>
 
-  <body ng-controller='LoksabhaCtrl'>
+  <body>
     <div class="container">
       <div class="masthead">
         <ul class="nav nav-justified">
@@ -35,44 +41,12 @@
           <li><a href="contribute.html">Contribute</a></li>
         </ul>
       </div>
-     <div class="alert alert-danger">This page is under construction. Please go to <a href='contribute.html'>Contribute</a> section and help us fix it.</div>
-     
-      <h1 class='page-header'>Loksabha Candidates
-	<select class='pull-right' value="" style='font-size : 16px; width : 200px;'>
-	  <option value="">All India</option>
-	  <option value="delhi">Delhi</option>
-      </select>
-      </h1>
-      <div class='row'>
-	<div class='col-lg-3'>
-	  <div class="list-group">
-	    <a href="#" class="list-group-item active">Journalists <span class='badge'>3</span></a>
-	    <a href="#" class="list-group-item">IAS/IPS <span class='badge'>2</span></a>
-	    <a href="#" class="list-group-item">Lawyers <span class='badge'>4</span></a>
-	    <a href="#" class="list-group-item">Social Activists <span class='badge'>5</span></a>
-	    <a href="#" class="list-group-item">Entrepreneurs <span class='badge'>10</span></a>
-	  </div>
-	</div>
-	<div class='col-lg-8'>
-	  <div class="media" ng-repeat='candidate in candidates' style='border-bottom : 1px solid #999; padding-bottom : 10px;'>
-	    <a class="pull-left" href="#">
-	      <img class="media-object" src="{{candidate.photo}}">
-	    </a>
-	    <div class="media-body">
-	      <h2 class="media-heading">{{candidate.name}}</h2>
-	      <p class='lead'>{{candidate.snippet}}</p>
-	    </div>
-	  </div>
-	</div>
-      </div>
-      <!-- Site footer -->
-      <div class="footer">
-        <p>This website is not affiliated to AAM Aadmi Party. It's a fan site. If unintentionally, we have published something in-correct or offensive, please contact us at support@arvindforpm.com and we will immediately take the concerned content down.</p>
-      </div>
-
-    </div> <!-- /container -->
-
-
+      <div ui-view></div>
+    <!-- Site footer -->
+    <div class="footer">
+      <p>This website is not affiliated to AAM Aadmi Party. It's a fan site. If unintentionally, we have published something in-correct or offensive, please contact us at support@arvindforpm.com and we will immediately take the concerned content down.</p>
+    </div>
+    </div>
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
